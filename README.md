@@ -7,5 +7,5 @@ B.Juhitha - 2620080124
 
 ##Abstract
 
-Municipal Waste Collection Optimiser is a smart system designed to make city waste collection faster, cleaner, and more efficient. The system monitors the waste levels in different garbage bins and helps municipal workers identify which bins need to be collected first.  This reduces unnecessary trips, saves fuel and time..
+The Municipal Waste Collection Optimiser is a Java-based application that helps manage and optimise municipal waste collection. It records waste levels, collection points, schedules, and vehicle details. The system helps select efficient collection routes and schedules, reducing time, fuel usage, and unnecessary trips. It demonstrates Java concepts such as classes, objects, arrays, methods, conditions, and exception handling...
 
