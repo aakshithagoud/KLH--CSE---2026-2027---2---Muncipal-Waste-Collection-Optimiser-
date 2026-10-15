@@ -1,4 +1,4 @@
-# KLHB-FED-26-15-2-Muncipal-Waste-Collection-Optimiser-
+# KLHB-FED-26-15-2-Municipal-Waste-Collection-Optimiser-
 ##Team Members
 
 A.Akshitha - 2620030219
