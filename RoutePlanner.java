@@ -1,5 +1,4 @@
-class RoutePlanner {
-    private String startingPoint;
+class RoutePlanner1;
     private double[] distances;
 
     RoutePlanner(String startingPoint, double[] distances) {
